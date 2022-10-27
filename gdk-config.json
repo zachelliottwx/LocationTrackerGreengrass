@@ -1,0 +1,16 @@
+{
+  "component": {
+    "com.example.LocationTracker": {
+      "author": "Zach Elliott",
+      "version": "NEXT_PATCH",
+      "build": {
+        "build_system": "zip"
+      },
+      "publish": {
+        "bucket": "awszac-greengrass-artifacts",
+        "region": "us-east-1"
+      }
+    }
+  },
+  "gdk_version": "1.0.0"
+}
