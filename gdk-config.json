@@ -1,14 +1,14 @@
 {
   "component": {
     "com.example.LocationTracker": {
-      "author": "Zach Elliott",
+      "author": "<Author>",
       "version": "NEXT_PATCH",
       "build": {
         "build_system": "zip"
       },
       "publish": {
-        "bucket": "awszac-greengrass-artifacts",
-        "region": "us-east-1"
+        "bucket": "<bucket>",
+        "region": "<region>"
       }
     }
   },
